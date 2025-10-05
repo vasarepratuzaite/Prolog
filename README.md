@@ -1,1 +1,1 @@
-# Prolog
+# Loginis programavimas (Prolog)
